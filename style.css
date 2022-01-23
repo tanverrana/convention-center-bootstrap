@@ -1,3 +1,27 @@
+#marking-package{
+    position: relative;
+    top: -80px;
+    border-radius: 20px;
+}
+#hot-button{
+    position: relative;
+    top: -15px;
+    left: 180px;
+    height: 40px;
+    width: 60px;
+    padding-left: 10px;
+    padding-top: 5px;
+    border-radius: 15px;
+    background-color: tomato;
+}
+/* Chose Plan Button  */
+.chose-plan-btn{
+    background-color: #F496D1;
+}
+/* Tick Color */
+.tick-color{
+    color: #5243C2;
+}
 .client-img{
     height: 100px;
     width: 100px;
