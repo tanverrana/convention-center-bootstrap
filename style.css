@@ -1,3 +1,10 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Marking Package */
 #marking-package{
     position: relative;
     top: -80px;
@@ -22,6 +29,7 @@
 .tick-color{
     color: #5243C2;
 }
+/* client Image */
 .client-img{
     height: 100px;
     width: 100px;
@@ -31,6 +39,7 @@
 .icon-color{
     color: rgb(248, 232, 7);
 }
+/* Mobile Responsive */
 @media only screen and (max-width: 990px) {
     #marking-package{
         top: -20px;
