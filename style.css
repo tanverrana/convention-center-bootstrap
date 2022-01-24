@@ -16,7 +16,7 @@
 }
 /* Chose Plan Button  */
 .chose-plan-btn{
-    background-color: #F496D1;
+    background-color: #f1c2e0;
 }
 /* Tick Color */
 .tick-color{
@@ -40,7 +40,5 @@
     }
     
   }
-  .object-fit-img{
-      object-fit: cover;
-  }
+  
 
